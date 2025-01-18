@@ -39,7 +39,7 @@ const Content_02 = () => {
                     tools. Changing habits and belief systems is tough! Change
                     aversion kills progress.
                   </p>
-                  <ul className="flex flex-col gap-y-5 font-dmSans text-xl leading-tight tracking-tighter text-black lg:mt-12 lg:text-[28px]">
+                  <ul className="flex flex-col gap-y-5 font-semibold text-xl leading-tight tracking-tighter text-black lg:mt-12 lg:text-[28px]">
                     <li className="flex items-start gap-x-3">
                       <div className="mt-[2.5px] h-[30px] w-[30px]">
                         <img
