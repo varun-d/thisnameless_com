@@ -1,9 +1,9 @@
 # Nameless Collective Website
 
-## Todo Main
+## Todo MVP R1
 
-Add content to main template. Select Home 1 or 3
-
-Remove not needed stuff
-Keep the same colors
 Change logo
+Keep colors and font
+Change Image 1 Hero
+Change Image 2 and 3 Content 01/02
+Remove pricing
