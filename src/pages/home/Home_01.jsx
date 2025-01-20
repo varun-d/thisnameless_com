@@ -5,6 +5,7 @@ import Content_02 from "../../components/sections/home_01/Content_02";
 import FunFact from "../../components/sections/home_01/FunFact";
 import Pricing from "../../components/sections/home_01/Pricing";
 import Testimonial_Section from "../../components/sections/home_01/Testimonial_Section";
+import Faq_Section from "../../components/sections/inner-pages/service/Faq_Section";
 
 const Home_01 = () => {
   return (
@@ -13,9 +14,14 @@ const Home_01 = () => {
       <Service />
       <Content_02 />
       <Content_01 />
-      {/* <FunFact /> */}
+      {/* Call to action with data points, from actual research */}
+      <FunFact />
+
       <Pricing />
-      <Testimonial_Section />
+
+      {/* FAQ */}
+      <Faq_Section />
+      {/* <Testimonial_Section /> */}
 
       {/* Body Background Shape 1 */}
       <div className="orange-gradient-1 absolute -left-[15px] top-[61%] -z-[1] h-[400px] w-[400px] -rotate-[-9.022deg] rounded-[400px]"></div>
