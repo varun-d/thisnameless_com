@@ -3,10 +3,7 @@
 ## Todo MVP R1
 
 Change logo
-Hide top menu
-Update tools icons (takes time)
-
-Update content on Simplify Complexity, etc.
+Update tools icons (takes time) DONE
 
 Its not about tech, update image
 Out approach to rapid, update image
@@ -16,3 +13,4 @@ Remove pricing
 Update FAQ
 
 Update footer, remove ALL links, keep business name
+Hide top menu

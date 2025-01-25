@@ -2,19 +2,19 @@
   {
     "icon_black": "assets/img/th-1/service-icon-black-1.svg",
     "icon_orange": "assets/img/th-1/service-icon-orange-1.svg",
-    "title": "We get numerous calls for the same questions!",
-    "text": "We create AI Voice Agents to answer basic queries and transfer the call for difficult questions."
+    "title": "AI Strategy & Education",
+    "text": "Don't know where to start with Generative AI? We educate you and strategize AI solutions for your business."
   },
   {
     "icon_black": "assets/img/th-1/service-icon-black-2.svg",
     "icon_orange": "assets/img/th-1/service-icon-orange-2.svg",
-    "title": "Lots of reports to write, I hate repeating myself!",
-    "text": "We create first-drafts with Large Language Models so you don't waste time repeating yourself."
+    "title": "AI Voice Agents",
+    "text": "Too many calls for the same questions? We create AI Voice Agents with human like voice and responses."
   },
   {
     "icon_black": "assets/img/th-1/service-icon-black-3.svg",
     "icon_orange": "assets/img/th-1/service-icon-orange-3.svg",
-    "title": "I don't know where to start with Generative AI!",
-    "text": "We co-create the best AI solutions for your business and help implement them with the right partners."
+    "title": "Business Process Automation",
+    "text": "It's the best time to automate. Reduce costs and increase efficiency with human + AI solutions."
   }
 ]
