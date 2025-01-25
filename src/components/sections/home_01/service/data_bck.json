@@ -1,0 +1,20 @@
+[
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-1.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-1.svg",
+    "title": "We get numerous calls for the same questions!",
+    "text": "We create AI Voice Agents to answer basic queries and transfer the call for difficult questions."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-2.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-2.svg",
+    "title": "Lots of reports to write, I hate repeating myself!",
+    "text": "We create first-drafts with Large Language Models so you don't waste time repeating yourself."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-3.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-3.svg",
+    "title": "I don't know where to start with Generative AI!",
+    "text": "We co-create the best AI solutions for your business and help implement them with the right partners."
+  }
+]

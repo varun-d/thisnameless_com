@@ -37,27 +37,13 @@ const Hero = () => {
                 </Link>
               </div>
             </div>
-            <div
-              className="jos hero-img overflow-hidden rounded-2xl bg-black"
-              data-jos_animation="zoom"
-            >
-              {/* Simple image showing an architecture with logos that help us rapidly prototype */}
-              <img
-                src="assets/img/th-1/hero-dashboard.jpg"
-                alt="hero-dashboard"
-                width="1296"
-                height="640"
-                className="h-auto w-full"
-              />
-            </div>
-
-            <div className="my-10 h-[1px] w-full bg-[#DBD6CF] lg:my-16 xl:my-20"></div>
+            {/* <div className="my-10 h-[1px] w-full bg-[#DBD6CF] lg:my-16 xl:my-20"></div> */}
             <div className="jos mx-auto mb-12 max-w-[715px] text-center lg:mb-16">
               <p className="text-lg">Tools we use to rapidly experiment</p>
             </div>
             <div className="jos brand-slider" data-jos_animation="fade">
               <Swiper
-                slidesPerView={2}
+                slidesPerView={3}
                 spaceBetween={105}
                 autoplay={{
                   delay: 4000,
@@ -78,94 +64,86 @@ const Hero = () => {
               >
                 <SwiperSlide>
                   <img
-                    src="assets/img/th-1/brand-1.png"
+                    src="assets/logos/anthropic_logo_black.png"
                     alt="brand-1"
                     width="180"
-                    height="38"
+                    height="40"
                     className="max-w-full"
                   />
                 </SwiperSlide>
                 <SwiperSlide>
                   <img
-                    src="assets/img/th-1/brand-2.png"
+                    src="assets/logos/aws_logo_black.png"
                     alt="brand-2"
                     width="183"
-                    height="35"
+                    height="40"
                     className="max-w-full"
                   />
                 </SwiperSlide>
                 <SwiperSlide>
                   <img
-                    src="assets/img/th-1/brand-3.png"
+                    src="assets/logos/do_logo_black.png"
                     alt="brand-3"
                     width="172"
-                    height="35"
+                    height="40"
                     className="max-w-full"
                   />
                 </SwiperSlide>
                 <SwiperSlide>
                   <img
-                    src="assets/img/th-1/brand-4.png"
+                    src="assets/logos/elevenlabs_logo_black.png"
                     alt="brand-4"
                     width="175"
-                    height="30"
+                    height="40"
+                    className="max-w-full"
+                  />
+                </SwiperSlide>
+
+                <SwiperSlide>
+                  <img
+                    src="assets/logos/groq_logo_black.png"
+                    alt="brand-1"
+                    width="180"
+                    height="40"
                     className="max-w-full"
                   />
                 </SwiperSlide>
                 <SwiperSlide>
                   <img
-                    src="assets/img/th-1/brand-5.png"
+                    src="assets/logos/openai_logo_black.png"
+                    alt="brand-2"
+                    width="183"
+                    height="40"
+                    className="max-w-full"
+                  />
+                </SwiperSlide>
+                <SwiperSlide>
+                  <img
+                    src="assets/logos/supabase_logo_black.png"
+                    alt="brand-3"
+                    width="172"
+                    height="40"
+                    className="max-w-full"
+                  />
+                </SwiperSlide>
+                <SwiperSlide>
+                  <img
+                    src="assets/logos/twilio_logo_black.png"
+                    alt="brand-4"
+                    width="175"
+                    height="40"
+                    className="max-w-full"
+                  />
+                </SwiperSlide>
+                {/* <SwiperSlide>
+                  <img
+                    src="assets/logos/.png"
                     alt="brand-5"
                     width="168"
                     height="36"
                     className="max-w-full"
                   />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/img/th-1/brand-1.png"
-                    alt="brand-1"
-                    width="180"
-                    height="38"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/img/th-1/brand-2.png"
-                    alt="brand-2"
-                    width="183"
-                    height="35"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/img/th-1/brand-3.png"
-                    alt="brand-3"
-                    width="172"
-                    height="35"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/img/th-1/brand-4.png"
-                    alt="brand-4"
-                    width="175"
-                    height="30"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/img/th-1/brand-5.png"
-                    alt="brand-5"
-                    width="168"
-                    height="36"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
+                </SwiperSlide> */}
               </Swiper>
             </div>
           </div>

@@ -3,7 +3,16 @@
 ## Todo MVP R1
 
 Change logo
-Keep colors and font
-Change Image 1 Hero
-Change Image 2 and 3 Content 01/02
+Hide top menu
+Update tools icons (takes time)
+
+Update content on Simplify Complexity, etc.
+
+Its not about tech, update image
+Out approach to rapid, update image
+
+Remove video block
 Remove pricing
+Update FAQ
+
+Update footer, remove ALL links, keep business name
