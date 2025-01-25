@@ -14,7 +14,7 @@ const Content_01 = () => {
                 data-jos_animation="fade-left"
               >
                 <img
-                  src="assets/img/th-1/content-image-1.jpg"
+                  src="assets/img/content_image1.png"
                   alt="content-image-1"
                   width="526"
                   height="450"
@@ -29,20 +29,20 @@ const Content_01 = () => {
               >
                 {/* Section Content Block */}
                 <div className="mb-6">
-                  <h2>Our approach to rapid prototyping</h2>
+                  <h2>We elevate your understanding.</h2>
                 </div>
                 {/* Section Content Block */}
                 <div className="text-lg leading-[1.4] lg:text-[21px]">
                   <p className="mb-7 last:mb-0">
-                    We start with understanding your domain. You are the expert.
-                    Our first meeting will be us exploring your frustrations
-                    with you. In our next call, we bring in a tangible
-                    prototype.
+                    It's difficult keeping up with advancements in Generative
+                    AI. We help you make sense of where to start.
                   </p>
                   <p className="mb-7 last:mb-0">
-                    An idea coming to life. Something to interact with. The
-                    prototype helps you rally your team and bring everyone on
-                    the same page.
+                    You are the expert in your industry. We explore and
+                    co-create ideas that serve the business. Delightful
+                    experiences for your customer is the only way to
+                    differentiate. Our prototypes help you rally your team and
+                    bring everyone on the same page.
                   </p>
                 </div>
               </div>

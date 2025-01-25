@@ -15,9 +15,9 @@ const Home_01 = () => {
       <Content_02 />
       <Content_01 />
       {/* Call to action with data points, from actual research */}
-      <FunFact />
+      {/* <FunFact /> */}
 
-      <Pricing />
+      {/* <Pricing /> */}
 
       {/* FAQ */}
       <Faq_Section />

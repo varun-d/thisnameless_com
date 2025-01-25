@@ -14,7 +14,7 @@ const Content_02 = () => {
                 data-jos_animation="fade-left"
               >
                 <img
-                  src="assets/img/th-1/content-image-2.jpg"
+                  src="assets/img/content_image2.png"
                   alt="content-image-2"
                   width="526"
                   height="450"
@@ -31,13 +31,13 @@ const Content_02 = () => {
                 {/* Section Content Block */}
                 <div className="text-lg leading-[1.4] lg:text-[21px]">
                   <p className="mb-7 last:mb-0">
-                    Using the latest software is not enough. We focus on solving
-                    problems.
+                    We focus on solving problems.
                   </p>
                   <p className="mb-7 last:mb-0">
-                    LLMs, AI, RAGs, Automation, React, Python, Docker are simply
-                    tools. Changing habits and belief systems is tough! Change
-                    aversion kills progress.
+                    A restaurant received 200+ calls a day asking about the
+                    menu, location, opening hours. Our Voice Agent helped reduce
+                    this to 10 calls a day. Humans aren't meant to answer the
+                    same calls, again and again.
                   </p>
                   <ul className="flex flex-col gap-y-5 font-semibold text-xl leading-tight tracking-tighter text-black lg:mt-12 lg:text-[28px]">
                     <li className="flex items-start gap-x-3">
@@ -50,8 +50,8 @@ const Content_02 = () => {
                           className="h-full w-full"
                         />
                       </div>
-                      Changing habits?{" "}
-                      <span className="text-orange-400">We make it fun.</span>
+                      40% reduction in call handovers{" "}
+                      {/* <span className="text-orange-400">We make it fun.</span> */}
                     </li>
                     <li className="flex items-start gap-x-3">
                       <div className="mt-[2.5px] h-[30px] w-[30px]">
@@ -63,8 +63,8 @@ const Content_02 = () => {
                           className="h-full w-full"
                         />
                       </div>
-                      Changing beliefs?{" "}
-                      <span className="text-orange-400">We educate.</span>
+                      20% cost reduction{" "}
+                      {/* <span className="text-orange-400">We educate.</span> */}
                     </li>
                     <li className="flex items-start gap-x-3">
                       <div className="mt-[2.5px] h-[30px] w-[30px]">
@@ -76,8 +76,8 @@ const Content_02 = () => {
                           className="h-full w-full"
                         />
                       </div>
-                      Accepting change?{" "}
-                      <span className="text-orange-400">We bring hope.</span>
+                      80% cheaper than human agents{" "}
+                      {/* <span className="text-orange-400">We bring hope.</span> */}
                     </li>
                   </ul>
                 </div>
