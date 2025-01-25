@@ -6,7 +6,7 @@ const Faq_Section = () => {
   return (
     <section className="faq-section">
       {/* Section Spacer */}
-      <div className="pb-20 xl:pb-[150px]">
+      <div className="pb-40 xl:pb-[150px]">
         {/* Section Container */}
         <div className="global-container">
           <div className="grid grid-cols-1 gap-y-10 md:grid-cols-2">
@@ -25,12 +25,12 @@ const Faq_Section = () => {
                   LLM Models, it's easier than ever to automate your business
                   process.
                 </p>
-                <Link
+                {/* <Link
                   to="/faq-1"
                   className="button mt-5 rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white"
                 >
                   Ask you questions
-                </Link>
+                </Link> */}
               </div>
             </div>
             {/* FAQ Left Block */}
@@ -51,16 +51,16 @@ const Faq_Section = () => {
                     onClick={() => handleAccordion(0)}
                     className="accordion-header flex items-center justify-between font-dmSans text-xl font-bold leading-[1.2] -tracking-[0.5px] text-black lg:text-[28px]"
                   >
-                    <p>How do I start AI SaaS?</p>
+                    <p>I already use ChatGPT, why do I need you?</p>
                     <div className="accordion-icon">
                       <img src="assets/img/plus.svg" alt="plus" />
                     </div>
                   </div>
                   <div className="accordion-content text-[#2C2C2C]">
                     <p>
-                      Go to the our official website and require users to create
-                      an account. You'll need to provide some basic information
-                      and agree to our terms and conditions.
+                      It's good to keep using the tools you are using! Our focus
+                      is to create secure, repeatable processes. Your experience
+                      with AI will help in the co-creation process.
                     </p>
                   </div>
                 </li>
@@ -75,16 +75,18 @@ const Faq_Section = () => {
                     onClick={() => handleAccordion(1)}
                     className="accordion-header flex items-center justify-between font-dmSans text-xl font-bold leading-[1.2] -tracking-[0.5px] text-black lg:text-[28px]"
                   >
-                    <p>Can I customize AI SaaS solutions?</p>
+                    <p>
+                      I'm not satisfied with AI chats, how are you different?
+                    </p>
                     <div className="accordion-icon">
                       <img src="assets/img/plus.svg" alt="plus" />
                     </div>
                   </div>
                   <div className="accordion-content text-[#2C2C2C]">
                     <p>
-                      Go to the our official website and require users to create
-                      an account. You'll need to provide some basic information
-                      and agree to our terms and conditions.
+                      For us, AI is a tool. We use our toolbox on your data and
+                      processes to create better experiences; better internal
+                      process and a better customer experience.
                     </p>
                   </div>
                 </li>
@@ -99,16 +101,20 @@ const Faq_Section = () => {
                     onClick={() => handleAccordion(2)}
                     className="accordion-header flex items-center justify-between font-dmSans text-xl font-bold leading-[1.2] -tracking-[0.5px] text-black lg:text-[28px]"
                   >
-                    <p>How can AI benefit my business?</p>
+                    <p>
+                      How expensive is it to automate a part of my business?
+                    </p>
                     <div className="accordion-icon">
                       <img src="assets/img/plus.svg" alt="plus" />
                     </div>
                   </div>
                   <div className="accordion-content text-[#2C2C2C]">
                     <p>
-                      Go to the our official website and require users to create
-                      an account. You'll need to provide some basic information
-                      and agree to our terms and conditions.
+                      Humans aren't meant to take calls for 8 hrs. We are not
+                      great at writing the same reports every month. We make
+                      mistakes. We have seen how Generative AI will help with
+                      productivity. Your 1x investment will result in 2x to 4x
+                      in returns.
                     </p>
                   </div>
                 </li>
