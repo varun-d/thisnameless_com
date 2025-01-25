@@ -127,8 +127,8 @@ const Footer_01 = () => {
         {/* Footer Bottom */}
         <div className="py-9 text-center">
           <p>
-            © Copyright {new Date().getFullYear()}, All Rights Reserved by
-            Nameless Collective (thisnameless.com)
+            © Copyright 2018-2025, All Rights Reserved by Nameless Collective
+            (thisnameless.com)
           </p>
         </div>
         {/* Footer Bottom */}
