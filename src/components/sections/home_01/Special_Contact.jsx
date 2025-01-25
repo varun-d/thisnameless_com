@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const SpecialContact = () => {
   return (
-    <div className="bg-black text-white">
+    <div id="special_contact" className="bg-black text-white">
       {/* Section Spacer */}
       <div className="py-20 xl:py-[130px]">
         {/* Footer Top */}

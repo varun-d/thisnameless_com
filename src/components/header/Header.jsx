@@ -13,16 +13,16 @@ const Header = ({ loginCSS, signupCSS, navColor, light }) => {
       id="sticky-menu"
     >
       <div className="global-container">
-        <div className="flex items-center justify-between gap-x-8">
+        <div className="flex items-center justify-center">
           {/* Header Logo */}
           <Logo light={light} />
           {/* Header Logo */}
           {/* Header Navigation */}
-          <Navbar
+          {/* <Navbar
             mobileMenu={mobileMenu}
             setMobileMenu={setMobileMenu}
             color={navColor}
-          />
+          /> */}
           {/* Header Navigation */}
           {/* Header User Event */}
           {/* Header User Event */}

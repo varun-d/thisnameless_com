@@ -31,10 +31,14 @@ const Hero = () => {
                   Book a meeting
                 </Link>
                 <Link
-                  to="/about"
+                  onClick={() =>
+                    document
+                      .getElementById("special_contact")
+                      ?.scrollIntoView({ behavior: "smooth" })
+                  }
                   className="button rounded-[50px] border-2 border-black bg-transparent py-4 text-black after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white"
                 >
-                  Speak to our agent
+                  Speak to our AI EA
                 </Link>
               </div>
             </div>

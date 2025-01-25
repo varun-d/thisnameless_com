@@ -111,12 +111,12 @@ const Footer_01 = () => {
               </li>
               <li></li>
               <li>
-                <Link
+                {/* <Link
                   to="/contact"
                   className="transition-all duration-300 ease-linear hover:text-colorOrangyRed"
                 >
                   Contact
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </div>
