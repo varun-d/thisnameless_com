@@ -8,3 +8,7 @@ Update FAQ DONE
 
 Update footer, remove ALL links, keep business name
 Hide top menu
+
+# Future
+
+https://www.searchenginejournal.com/important-tags-seo/156440/
