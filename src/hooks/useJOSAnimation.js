@@ -1,6 +1,6 @@
-import { useEffect } from 'react';
-import { useLocation } from 'react-router-dom';
-import JOS from 'jos-animation';
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+import JOS from "jos-animation";
 
 // Custom hook for initializing JOS animations
 const useJOSAnimation = () => {
@@ -9,13 +9,13 @@ const useJOSAnimation = () => {
     JOS.init({
       passive: false,
       once: true,
-      animation: 'fade-up',
-      timingFunction: 'ease',
+      animation: "fade-up",
+      timingFunction: "ease",
       threshold: 0,
-      delay: 0.5,
-      duration: 0.7,
-      scrollDirection: 'down',
-      rootMargin: '0% 0% 15% 0%',
+      delay: 0.2,
+      duration: 0.421,
+      scrollDirection: "down",
+      rootMargin: "0% 0% 15% 0%",
     });
   }, []);
 
