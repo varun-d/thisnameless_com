@@ -13,7 +13,10 @@ const Service = () => {
             {/* Section Content Block */}
             <div className="jos mb-10 lg:mb-16 xl:mb-20">
               <div className="md:max-w-sm lg:max-w-xl xl:max-w-[746px]">
-                <h2>Simplifying Complexity. Automating Routine</h2>
+                <h2>
+                  Simplifying Complexity
+                  <br /> Automating Routine
+                </h2>
               </div>
             </div>
             {/* Section Content Block */}

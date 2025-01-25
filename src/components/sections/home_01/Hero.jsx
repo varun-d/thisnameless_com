@@ -17,7 +17,7 @@ const Hero = () => {
                 We are a collection of technologists, designers and strategists.
                 At Nameless Collective we co-create ideas with you to simplify
                 AI and automate routine. Our super power is Human + AI
-                collaboration.
+                collaboration
               </p>
               <div
                 className="jos flex flex-wrap justify-center gap-6"
@@ -43,114 +43,6 @@ const Hero = () => {
               </div>
             </div>
             {/* <div className="my-10 h-[1px] w-full bg-[#DBD6CF] lg:my-16 xl:my-20"></div> */}
-            <div className="jos mx-auto mb-12 max-w-[715px] text-center lg:mb-16">
-              <p className="text-lg">Tools we use to rapidly experiment</p>
-            </div>
-            <div className="jos brand-slider" data-jos_animation="fade">
-              <Swiper
-                slidesPerView={3}
-                spaceBetween={105}
-                autoplay={{
-                  delay: 4000,
-                  disableOnInteraction: false,
-                }}
-                modules={[Autoplay]}
-                breakpoints={{
-                  768: {
-                    slidesPerView: 3,
-                  },
-                  992: {
-                    slidesPerView: 4,
-                  },
-                  1200: {
-                    slidesPerView: 5,
-                  },
-                }}
-              >
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/anthropic_logo_black.png"
-                    alt="brand-1"
-                    width="180"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/aws_logo_black.png"
-                    alt="brand-2"
-                    width="183"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/do_logo_black.png"
-                    alt="brand-3"
-                    width="172"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/elevenlabs_logo_black.png"
-                    alt="brand-4"
-                    width="175"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/groq_logo_black.png"
-                    alt="brand-1"
-                    width="180"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/openai_logo_black.png"
-                    alt="brand-2"
-                    width="183"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/supabase_logo_black.png"
-                    alt="brand-3"
-                    width="172"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img
-                    src="assets/logos/twilio_logo_black.png"
-                    alt="brand-4"
-                    width="175"
-                    height="40"
-                    className="max-w-full"
-                  />
-                </SwiperSlide>
-                {/* <SwiperSlide>
-                  <img
-                    src="assets/logos/.png"
-                    alt="brand-5"
-                    width="168"
-                    height="36"
-                    className="max-w-full"
-                  />
-                </SwiperSlide> */}
-              </Swiper>
-            </div>
           </div>
           <div className="orange-gradient-1 absolute -right-[150px] top-[370px] -z-[1] h-[500px] w-[500px] animate-spin rounded-[500px]"></div>
 
