@@ -6,6 +6,7 @@ import FunFact from "../../components/sections/home_01/FunFact";
 import Pricing from "../../components/sections/home_01/Pricing";
 import Testimonial_Section from "../../components/sections/home_01/Testimonial_Section";
 import Faq_Section from "../../components/sections/inner-pages/service/Faq_Section";
+import SpecialContact from "../../components/sections/home_01/Special_Contact";
 
 const Home_01 = () => {
   return (
@@ -25,7 +26,7 @@ const Home_01 = () => {
 
       {/* Body Background Shape 1 */}
       <div className="orange-gradient-1 absolute -left-[15px] top-[61%] -z-[1] h-[400px] w-[400px] -rotate-[-9.022deg] rounded-[400px]"></div>
-
+      <SpecialContact />
       {/* Body Background Shape 2 */}
       <div className="orange-gradient-2 absolute -left-[100px] top-[64%] -z-[1] h-[360px] w-[360px] -rotate-[-9.022deg] rounded-[360px]"></div>
     </main>

@@ -24,7 +24,8 @@ const Hero = () => {
                 data-jos_animation="fade"
               >
                 <Link
-                  to="/contact"
+                  target="_blank"
+                  to="https://cal.com/thisnameless/45m-ideation?month=2025-02&date=2025-02-03"
                   className="button rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white"
                 >
                   Book a meeting
