@@ -17,13 +17,10 @@ const Home_01 = () => {
       <Content_01 />
       {/* Call to action with data points, from actual research */}
       {/* <FunFact /> */}
-
       {/* <Pricing /> */}
-
       {/* FAQ */}
       <Faq_Section />
       {/* <Testimonial_Section /> */}
-
       {/* Body Background Shape 1 */}
       <div className="orange-gradient-1 absolute -left-[15px] top-[61%] -z-[1] h-[400px] w-[400px] -rotate-[-9.022deg] rounded-[400px]"></div>
       <SpecialContact />
