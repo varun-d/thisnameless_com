@@ -80,27 +80,21 @@ const Footer_01 = () => {
           <div className="flex flex-col gap-y-6">
             {/* Footer Title */}
             <h4 className="text-[21px] font-semibold capitalize text-black">
-              Find out more
+              We operate in
             </h4>
             {/* Footer Title */}
             {/* Footer Navbar */}
             <ul className="flex flex-col gap-y-[10px] capitalize">
               <li>
-                <Link
-                  to="/"
-                  className="transition-all duration-300 ease-linear hover:text-colorOrangyRed"
-                >
-                  Home
-                </Link>
+                16 Yonge St, <br></br>Toronto, ON - Canada
               </li>
+              <li></li>
               <li>
-                <Link
-                  to="/"
-                  className="transition-all duration-300 ease-linear hover:text-colorOrangyRed"
-                >
-                  About Us (coming soon)
-                </Link>
+                The Green & Views,<br></br>
+                Dubai - United Arab Emirates
               </li>
+              <li></li>
+              <li>Lisbon, Portugal</li>
               <li>
                 {/* <Link
                   to="/services"
