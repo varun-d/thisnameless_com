@@ -86,15 +86,16 @@ const Footer_01 = () => {
             {/* Footer Navbar */}
             <ul className="flex flex-col gap-y-[10px] capitalize">
               <li>
-                16 Yonge St, <br></br>Toronto, ON - Canada
+                16 Yonge St <br></br>Toronto, Canada
               </li>
               <li></li>
               <li>
-                The Green & Views,<br></br>
-                Dubai - United Arab Emirates
+                The Green & Views<br></br>
+                Dubai, United Arab Emirates
               </li>
-              <li></li>
-              <li>Lisbon, Portugal</li>
+              <li>
+                Tv. das Pedras Negras<br></br>Lisboa, Portugal
+              </li>
               <li>
                 {/* <Link
                   to="/services"
