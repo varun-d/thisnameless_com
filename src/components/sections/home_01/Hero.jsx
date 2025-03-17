@@ -14,10 +14,9 @@ const Hero = () => {
                 Realize your AI vision
               </h1>
               <p className="jos slide-from-bottom mb-11 max-w-[700px] text-lg font-semibold sm:text-xl xl:max-w-[980px]">
-                We are a collection of technologists, designers and strategists.
                 At Nameless Collective we co-create ideas with you to simplify
-                AI and automate routine. Our super power is Human + AI
-                collaboration
+                AI hype and automate routine. Our super power is a bespoke
+                solution created for you, with Human + AI at its core.
               </p>
               <div
                 className="jos flex flex-wrap justify-center gap-6"
