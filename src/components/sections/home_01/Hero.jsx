@@ -29,7 +29,7 @@ const Hero = () => {
                 >
                   Book a meeting
                 </Link>
-                <Link
+      {/* <Link
                   onClick={() =>
                     document
                       .getElementById("special_contact")
@@ -38,7 +38,7 @@ const Hero = () => {
                   className="button rounded-[50px] border-2 border-black bg-transparent py-4 text-black after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white"
                 >
                   Speak to our AI EA
-                </Link>
+                </Link> */}
               </div>
             </div>
             {/* <div className="my-10 h-[1px] w-full bg-[#DBD6CF] lg:my-16 xl:my-20"></div> */}
