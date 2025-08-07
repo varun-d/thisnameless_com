@@ -31,11 +31,11 @@ const SpecialContact = () => {
               <div className="rounded-[10px] bg-[#121212] px-11 py-5 text-center font-raleway font-bold leading-[1.33] text-[#F6F6EB] transition-all duration-300 hover:bg-[#381FD1] xl:text-2xl xxl:text-3xl">
                 <a href="tel:+12897783324">+1 (289) 778 3324</a>
               </div>
-              <div className="rounded-[10px] bg-[#121212] px-11 py-5 text-center font-raleway font-bold leading-[1.33] text-[#F6F6EB] transition-all duration-300 hover:bg-[#381FD1] xl:text-2xl xxl:text-3xl">
+      {/*<div className="rounded-[10px] bg-[#121212] px-11 py-5 text-center font-raleway font-bold leading-[1.33] text-[#F6F6EB] transition-all duration-300 hover:bg-[#381FD1] xl:text-2xl xxl:text-3xl">
                 <a href="https://wa.me/12897783324?text=Hey%20Kelly!">
                   WhatsApp
                 </a>
-              </div>
+              </div> */}
             </div>
 
             {/* Footer Contact */}

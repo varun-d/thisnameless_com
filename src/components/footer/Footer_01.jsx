@@ -73,7 +73,7 @@ const Footer_01 = () => {
             <p>
               <Link to="/">www.thisnameless.com</Link>
             </p>
-            <p>Speak with Kelly at +1 (289) 778 3324</p>
+	  <p>Speak with Kelly at +1 (289) 778 3324</p>
           </div>
           {/* Footer Widget */}
           {/* Footer Widget */}
